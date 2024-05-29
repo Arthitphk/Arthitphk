@@ -12,9 +12,6 @@
   <a href="https://www.facebook.com/profile.php?id=100070460562549">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="arthit.chatusor@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
 </div>
 
 
@@ -42,7 +39,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :zap: In my free time, I solve problems  and play videogame.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](arthit.chatusor@gmail.com)
 
 
 ---

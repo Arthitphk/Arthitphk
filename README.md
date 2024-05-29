@@ -13,11 +13,11 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+
 
 <h1 align="center">
   Hi There i'm Arthit Chatusor
 </h1>
 
-<div align="center">
-  <iframe src="https://giphy.com/embed/YQitE4YNQNahy" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/YQitE4YNQNahy">via GIPHY</a></p>
-</div>
+

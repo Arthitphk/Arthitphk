@@ -14,10 +14,6 @@
   </a>
 </div>
 
-<div  align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arthitphk&style=flat-square&color=blue" alt="" align="center"/>
-</div>
-
 
 <h1 align="center" >
  Hi There I'm Arthit Chatusor

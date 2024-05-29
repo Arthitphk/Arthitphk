@@ -15,6 +15,6 @@
 </div>
 
 <h1>
-  Hi There
+  Hi There i'm Arthit Chatusor you can call me 'Nont'
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>

@@ -12,8 +12,8 @@
   <a href="https://www.facebook.com/profile.php?id=100070460562549">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  <a href="arthit.chatusor@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
 

@@ -39,7 +39,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :zap: In my free time, I solve problems  and play videogame.
 
-- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](arthit.chatusor@gmail.com)
+- :mailbox:How to reach me: arthit.chatusor@gmail.com
 
 
 ---

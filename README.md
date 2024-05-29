@@ -33,7 +33,7 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNoM3RyMDN0enFydzdnOHNzY
 
 I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Thailand.
 
-- :telescope: I’m  practice to be frontend and  building web applications.
+- :telescope: I’m  practice to be Frontend Develope and  building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 

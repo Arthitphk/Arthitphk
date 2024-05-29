@@ -16,7 +16,7 @@
 
 <h1 align="center">
   Hi There i'm Arthit Chatusor
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <iframe src="https://giphy.com/embed/YQitE4YNQNahy" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/YQitE4YNQNahy">via GIPHY</a></p>
 </h1>
 
 <div align="center">

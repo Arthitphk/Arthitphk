@@ -31,13 +31,9 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNoM3RyMDN0enFydzdnOHNzY
 
 ### :woman_technologist: About Me :
 
-I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Thailand.
-
 - :telescope: I’m  practice to be Frontend Developer and  building web applications.
 
 - :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems  and play videogame.
 
 - :mailbox:How to reach me: arthit.chatusor@gmail.com
 

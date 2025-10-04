@@ -2,29 +2,13 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3NzanpkMmt1bXF3NGt0cXdxbGJxaTU3cnBubHB2N3p5N3JkaHVjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.webp" width="200"/>
 </div>
 
-<div id="badges"  align="center">
-  <a href="https://www.linkedin.com/in/arthit-chatusor-525388245/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/@JustGutsborne">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100070460562549">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-</div>
+
 
 
 <h1 align="center" >
  Hi There I'm Arthit Chatusor
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
-
-<div align="center">
-  <img 
-src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNoM3RyMDN0enFydzdnOHNzY3Rmdmo2YWZvMzZlN2FzdmpuamF5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.webp" width="600" height="300"/>
-</div>
 
 
 ---

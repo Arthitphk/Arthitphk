@@ -32,13 +32,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
 
-
----
-
-### :fire: My Stats :
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Arthitphk&theme=youtube-dark&border_radius=5" alt="GitHub Streak" /></a>
-
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthitphk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
